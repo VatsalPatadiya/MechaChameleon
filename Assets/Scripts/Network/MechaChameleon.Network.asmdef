@@ -1,0 +1,20 @@
+{
+    "name": "MechaChameleon.Network",
+    "rootNamespace": "MechaChameleon.Network",
+    "references": [
+        "MechaChameleon.Core",
+        "Unity.Netcode.Runtime",
+        "Unity.Services.Relay",
+        "Unity.Services.Lobby",
+        "Unity.Services.Authentication"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

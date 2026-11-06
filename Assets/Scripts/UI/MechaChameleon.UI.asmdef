@@ -1,0 +1,19 @@
+{
+    "name": "MechaChameleon.UI",
+    "rootNamespace": "MechaChameleon.UI",
+    "references": [
+        "MechaChameleon.Core",
+        "MechaChameleon.Gameplay",
+        "MechaChameleon.Network",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
